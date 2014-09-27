@@ -142,4 +142,5 @@ module.exports = function(){
   }
 }
 
-module.exports.error = ExecError;
+module.exports.error = error;
+module.exports.ExecError = ExecError;
