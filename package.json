@@ -1,6 +1,6 @@
 {
   "name": "cli-mid-exec",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Command executable middleware",
   "author": "muji <noop@xpm.io>",
   "repository": {
