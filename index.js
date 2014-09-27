@@ -1,9 +1,9 @@
-var fs = require('fs');
-var path = require('path'),
-  dirname = path.dirname,
-  basename = path.basename;
-var spawn = require('child_process').spawn;
-var ExecError = require('./exec-error');
+var fs = require('fs')
+  , path = require('path')
+  , dirname = path.dirname
+  , basename = path.basename
+  , spawn = require('child_process').spawn
+  , ExecError = require('./exec-error');
 
 /**
  *  Child process error handler.
